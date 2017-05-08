@@ -1,0 +1,40 @@
+.row {
+	background-color: yellow;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.row > div {
+	border: 1px black solid;
+	display: inline-block;
+	height:100%;
+}
+.h200{
+	height: 200px;
+}
+.h300{
+	height: 300px;
+}
+.col-2{
+	
+	width: 50%;
+}
+.col-3{
+	width: 33.33%;
+}
+#id-1{
+	background-color: green;
+}
+#id-2{
+	background-color: blue;
+}
+#id-3{
+	background-color: gray;
+}
+#id-4{
+	background-color: black;
+}
+#id-5{
+	background-color: gold;
+}
