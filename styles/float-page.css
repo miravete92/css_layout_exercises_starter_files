@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.fleft{
+	float: left;
+	margin:10px 10px 10px 0px;
+}
+.fright{
+	float: right;
+	margin:10px 0px 10px 10px;
+}
+.dim300{
+	max-width: 300px;
+}
